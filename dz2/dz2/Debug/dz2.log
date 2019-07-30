@@ -1,0 +1,33 @@
+﻿  dz2.c
+c:\users\dusan\desktop\dz2\dz2\dz2.c(102): warning C4013: 'malloc' undefined; assuming extern returning int
+c:\users\dusan\desktop\dz2\dz2\dz2.c(102): warning C4047: '=': 'elem *' differs in levels of indirection from 'int'
+c:\users\dusan\desktop\dz2\dz2\dz2.c(100): warning C4101: 'pom2': unreferenced local variable
+c:\users\dusan\desktop\dz2\dz2\dz2.c(170): warning C4047: '=': 'elem *' differs in levels of indirection from 'int'
+c:\users\dusan\desktop\dz2\dz2\dz2.c(309): warning C4013: 'free' undefined; assuming extern returning int
+c:\users\dusan\desktop\dz2\dz2\dz2.c(433): warning C4013: 'exit' undefined; assuming extern returning int
+c:\users\dusan\desktop\dz2\dz2\dz2.c(390): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\dusan\desktop\dz2\dz2\dz2.c(396): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\dusan\desktop\dz2\dz2\dz2.c(399): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\dusan\desktop\dz2\dz2\dz2.c(405): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\dusan\desktop\dz2\dz2\dz2.c(414): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\dusan\desktop\dz2\dz2\dz2.c(424): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\dusan\desktop\dz2\dz2\dz2.c(427): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\dusan\desktop\dz2\dz2\dz2.c(438): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\dusan\desktop\dz2\dz2\dz2.c(450): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\dusan\desktop\dz2\dz2\dz2.c(378): warning C4101: 'lazni_int': unreferenced local variable
+c:\users\dusan\desktop\dz2\dz2\dz2.c(75): warning C4716: 'desna_rotacija': must return a value
+c:\users\dusan\desktop\dz2\dz2\dz2.c(84): warning C4716: 'leva_rotacija': must return a value
+c:\users\dusan\desktop\dz2\dz2\dz2.c(293): warning C4716: 'inorder': must return a value
+c:\users\dusan\desktop\dz2\dz2\dz2.c(312): warning C4716: 'obrisi': must return a value
+c:\users\dusan\desktop\dz2\dz2\dz2.c(375): warning C4716: 'razlika': must return a value
+  dz2.vcxproj -> C:\Users\Dusan\Desktop\dz2\Debug\dz2.exe
+  dz2.vcxproj -> C:\Users\Dusan\Desktop\dz2\Debug\dz2.pdb (Full PDB)
